@@ -1,1 +1,1 @@
-# protfolio
+Enthusiastic and detail-oriented data analyst with a strong foundation in statistical analysis, data visualization, and data management. Adept at using SQL, Power BI, Tableau and Excel for data manipulation and analysis. Seeking to apply my analytical skills and knowledge to contribute to data-driven decision-making in a dynamic organization.
